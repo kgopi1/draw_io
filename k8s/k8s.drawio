@@ -64,7 +64,7 @@
         <mxCell id="isWvc3vugFJ6-0lpnxb9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="511" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="isWvc3vugFJ6-0lpnxb9-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;prj-ns&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;prj1-ns&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="576" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="isWvc3vugFJ6-0lpnxb9-26" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -85,10 +85,10 @@
         <mxCell id="isWvc3vugFJ6-0lpnxb9-31" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="130" y="524.5" width="38" height="33.53" as="geometry" />
         </mxCell>
-        <mxCell id="isWvc3vugFJ6-0lpnxb9-32" value="ns1" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-32" value="prj1-ns2" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="576" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="isWvc3vugFJ6-0lpnxb9-33" value="ns2" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-33" value="prj2-ns" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="626" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isWvc3vugFJ6-0lpnxb9-35" value="prj-ns&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;&lt;div&gt;ns wide only&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="isWvc3vugFJ6-0lpnxb9-37" value="&lt;b&gt;current Setup:&amp;nbsp; Cluser Wide aks azure devops service connection&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="85" y="205" width="325" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="isWvc3vugFJ6-0lpnxb9-41" value="ns2-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-41" value="prj2-ns&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aRGARJM0RF5H7PqIq76_-1" value="&lt;b&gt;New Shared Cluster : Service Connection NS Level&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
             <mxPoint x="435" y="636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRGARJM0RF5H7PqIq76_-12" value="ns1-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="aRGARJM0RF5H7PqIq76_-12" value="prj1-ns2&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="585" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
