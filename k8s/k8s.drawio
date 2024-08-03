@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="qPmJnDwx-q1KqftsfO4V">
+    <mxGraphModel dx="822" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="482" width="640" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="650" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="isWvc3vugFJ6-0lpnxb9-3" target="isWvc3vugFJ6-0lpnxb9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="235" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;mktg ns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="248.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-12">
+          <mxGeometry x="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-12">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-4" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=c_role" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-12">
+          <mxGeometry x="65" y="7.199999999999989" width="30" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-9" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=crb" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-12">
+          <mxGeometry x="5" y="7.199999999999989" width="30" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="248.50000000000003" width="38" height="33.53" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-16" value="eforms" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-17" value="web" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-18" value="aks-pipeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-20" value="mktg-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;&lt;div&gt;Cluster Wide&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="265" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="516" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="567" as="sourcePoint" />
+            <mxPoint x="440" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="511" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;mktg ns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="576" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="524.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="596" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-26">
+          <mxGeometry x="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-26">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-29" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=c_role" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-26">
+          <mxGeometry x="65" y="7.199999999999989" width="30" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-30" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=crb" vertex="1" parent="isWvc3vugFJ6-0lpnxb9-26">
+          <mxGeometry x="5" y="7.199999999999989" width="30" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-31" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="524.5" width="38" height="33.53" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-32" value="eforms" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="576" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-33" value="web" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="626" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-34" value="aks-pipeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="536" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-35" value="mktg-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;&lt;div&gt;ns wide only&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="515.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-37" value="current Setup:&amp;nbsp; Cluser Wide aks azure devops service connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="205" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="610" as="sourcePoint" />
+            <mxPoint x="439" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="650" as="sourcePoint" />
+            <mxPoint x="439" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-40" value="eforms-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="576" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWvc3vugFJ6-0lpnxb9-41" value="web-&amp;nbsp;&lt;div&gt;service connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="616" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
